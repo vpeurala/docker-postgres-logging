@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
-docker build --tag vpeurala/docker-postgres-logging:latest .
+docker build --tag vpeurala/docker-postgres-logging:latest .;
 
